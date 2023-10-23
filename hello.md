@@ -926,6 +926,7 @@
 - DavidSalazarG
 - netsoren
 - Renzogon
+- xamu27
 - VictorHrnC
 - ivardev33
 - DanielPerezVelez
@@ -1127,3 +1128,18 @@
 - Vict0or
 - Juliantxo163
 - Prueba
+- jf3palacios
+- JoseValperga
+- cubandeveloper89
+- wylcetal
+- ElkinMBecerraR
+- ELopezrse
+- Dobler22
+- Dervin48
+- Luisill4036W
+- samuprofe
+- Niicoph
+- Datsers
+- jmrodriguezcorral
+- abelgzalazar
+- adelgadox
